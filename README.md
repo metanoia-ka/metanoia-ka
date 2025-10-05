@@ -29,7 +29,7 @@
 5️⃣ Automation & DevOps  
 6️⃣ Dashboard & Analytics  
 
-Follow my progress → [LinkedIn](https://linkedin.com/in/ton-lien) | [GitHub Projects](https://github.com/metanoia-ka?tab=repositories)
+Follow my progress → [GitHub Projects](https://github.com/metanoia-ka?tab=repositories)
 
 ---
 
@@ -51,7 +51,6 @@ Follow my progress → [LinkedIn](https://linkedin.com/in/ton-lien) | [GitHub Pr
 
 
 ### ☕ Let's Connect
-💬 LinkedIn: [linkedin.com/in/ton-lien](https://linkedin.com/in/ton-lien)  
-📧 Email: ton.email@domaine.com  
+📧 Email: norbertltagne@gmail.com  
 🌐 Portfolio (coming soon): [metanoia-ka.dev](https://metanoia-ka.dev)
 
