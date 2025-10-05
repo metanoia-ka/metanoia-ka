@@ -41,8 +41,8 @@ Follow my progress → [LinkedIn](https://linkedin.com/in/ton-lien) | [GitHub Pr
 | [DevOpsLab](https://github.com/metanoia-ka/devops-lab) | CI/CD, Docker & automation playground | Docker, GitHub Actions |
 
 ---
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Angular](https://img.shields.io/badge/Angular-17-red)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Angular](https://img.shields.io/badge/Angular-20-red)
 ![Docker](https://img.shields.io/badge/Docker-enabled-blue)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automated-success)
 
