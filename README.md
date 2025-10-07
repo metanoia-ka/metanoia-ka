@@ -7,14 +7,14 @@
 
 ### 💻 Tech Stack  
 **Backend:** Django REST Framework (DRF), PostgreSQL, Redis  
-**Frontend:** Angular, TailwindCSS, RxJS  
+**Frontend:** Angular, RxJS  
 **DevOps:** Docker, Nginx, CI/CD (GitHub Actions), Linux  
-**Tools:** VSCode, PyCharm, Postman, QGIS  
+**Tools:** VSCode, PyCharm, QGIS, Postman, Insomnia 
 
 ---
 
 ### 🧠 Current Focus
-- 🌍 Developing modern APIs for real estate & eco-construction platforms  
+- 🌍 Developing modern APIs 
 - ⚙️ Building modular Angular frontends with dynamic modal workflows  
 - ☁️ Exploring DevOps automation and container orchestration  
 
@@ -41,8 +41,8 @@ Follow my progress → [GitHub Projects](https://github.com/metanoia-ka?tab=repo
 | [DevOpsLab](https://github.com/metanoia-ka/devops-lab) | CI/CD, Docker & automation playground | Docker, GitHub Actions |
 
 ---
-![Python](https://img.shields.io/badge/Python-3.14-blue)
-![Angular](https://img.shields.io/badge/Angular-20-red)
+![Python](https://img.shields.io/badge/Python-3.13+-blue)
+![Angular](https://img.shields.io/badge/Angular-20+-red)
 ![Docker](https://img.shields.io/badge/Docker-enabled-blue)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automated-success)
 
