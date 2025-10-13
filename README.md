@@ -49,6 +49,6 @@ Follow my progress → [GitHub Projects](https://github.com/metanoia-ka?tab=repo
 
 
 ### ☕ Let's Connect
-📧 Email: metanoia.sdev@gmail.com  
+📧 Email: [metanoia.sdev@gmail.com](metanoia.sdev@gmail.com)
 🌐 Portfolio (coming soon): [metanoia-ka.dev](https://metanoia-ka.dev)
 
