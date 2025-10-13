@@ -36,9 +36,7 @@ Follow my progress → [GitHub Projects](https://github.com/metanoia-ka?tab=repo
 ### 🧰 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [EcoConstruct API](https://github.com/metanoia-ka/ecoconstruct-api) | RESTful API for sustainable building permits & transactions | DRF, PostgreSQL |
-| [Lotissement GIS](https://github.com/metanoia-ka/geo-lotissement) | Geospatial lot management with QGIS & Angular maps | DRF, GeoDjango, Angular |
-| [DevOpsLab](https://github.com/metanoia-ka/devops-lab) | CI/CD, Docker & automation playground | Docker, GitHub Actions |
+| Coming soon |------ | ------ |
 
 ---
 ![Python](https://img.shields.io/badge/Python-3.13+-blue)
