@@ -51,6 +51,6 @@ Follow my progress → [GitHub Projects](https://github.com/metanoia-ka?tab=repo
 
 
 ### ☕ Let's Connect
-📧 Email: norbertltagne@gmail.com  
+📧 Email: metanoia.sdev@gmail.com  
 🌐 Portfolio (coming soon): [metanoia-ka.dev](https://metanoia-ka.dev)
 
