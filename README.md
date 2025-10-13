@@ -45,10 +45,9 @@ Follow my progress → [GitHub Projects](https://github.com/metanoia-ka?tab=repo
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automated-success)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metanoia-ka&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metanoia-ka&layout=compact&theme=tokyonight)
 
 
 ### ☕ Let's Connect
-📧 Email: [metanoia.sdev@gmail.com](metanoia.sdev@gmail.com)
+📧 Email: metanoia.sdev@gmail.com
 🌐 Portfolio (coming soon): [metanoia-ka.dev](https://metanoia-ka.dev)
 
